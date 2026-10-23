@@ -1,0 +1,84 @@
+{
+  "about": "Lorem ipsum dolor sit amet consectetur. Amet sit suscipit lacus mauris. Sit gravida id cursus eu etiam sit ut in suspendisse. Gravida fermentum arcu mollis nisl morbi tellus at.",
+  "aboutHero": "images/isaac.jpg",
+  "clients": [],
+  "intro": "Atelier de arquitetura em Chaves. Trabalhamos o conjunto de dimensões que formam o espaço, do primeiro esboço à obra.",
+  "jobs": [
+    {
+      "details": "",
+      "exp": "",
+      "mode": "Presencial",
+      "place": "Chaves, PT",
+      "title": "Arquiteto",
+      "type": "Tempo inteiro"
+    },
+    {
+      "details": "",
+      "exp": "",
+      "mode": "Presencial",
+      "place": "Chaves, PT",
+      "title": "Designer de Interiores",
+      "type": "Tempo inteiro"
+    },
+    {
+      "details": "",
+      "exp": "",
+      "mode": "Presencial",
+      "place": "Chaves, PT",
+      "title": "Artista 3D",
+      "type": "Tempo inteiro"
+    }
+  ],
+  "logo": "images/logo_trim.png",
+  "logoLight": "images/logo_white.png",
+  "logoMono": "images/logo_mono.png",
+  "offices": [
+    {
+      "address": "R. Frei João de Chaves, Ed. Casa Blanca, L.15 . 5400-318 Chaves",
+      "name": "Sede",
+      "phone": "+351 276 332 603"
+    },
+    {
+      "address": "",
+      "name": "Porto",
+      "phone": ""
+    }
+  ],
+  "social": {
+    "facebook": "https://www.facebook.com/Arquiponto?locale=pt_PT",
+    "instagram": "https://www.instagram.com/arquiponto_/",
+    "linkedin": "https://www.linkedin.com/company/arquiponto-lda/home/"
+  },
+  "team": [
+    {
+      "name": "Nome Apelido",
+      "photo": "images/kumpan.jpg",
+      "role": "Arquiteto"
+    },
+    {
+      "name": "Nome Apelido",
+      "photo": "images/premium_photo.jpg",
+      "role": "Arquiteta"
+    },
+    {
+      "name": "Nome Apelido",
+      "photo": "images/guillermo.jpg",
+      "role": "Arquiteto"
+    },
+    {
+      "name": "Nome Apelido",
+      "photo": "images/kumpan.jpg",
+      "role": "Arquiteto"
+    },
+    {
+      "name": "Nome Apelido",
+      "photo": "images/premium_photo.jpg",
+      "role": "Arquiteta"
+    },
+    {
+      "name": "Nome Apelido",
+      "photo": "images/guillermo.jpg",
+      "role": "Arquiteto"
+    }
+  ]
+}

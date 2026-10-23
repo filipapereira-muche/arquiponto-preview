@@ -1,0 +1,87 @@
+[
+  {
+    "client": "Costa & Carreira",
+    "colaboracao": "Paralaxe",
+    "cover": "images/arquiponto_sr-village_01-capa.jpg",
+    "estado": "Obra",
+    "featured": true,
+    "localizacao": "Loulé, PT",
+    "order": 0,
+    "photos": [
+      "images/arquiponto_sr-village_02.jpg",
+      "images/arquiponto_sr-village_03.jpg",
+      "images/arquiponto_sr-village_04.jpg",
+      "images/arquiponto_sr-village_05.jpg",
+      "images/arquiponto_sr-village_06.jpg",
+      "images/arquiponto_sr-village_07.jpg"
+    ],
+    "text": "Lorem ipsum dolor sit amet consectetur. Amet sit suscipit lacus mauris. Sit gravida id cursus eu etiam sit ut in suspendisse. Gravida fermentum arcu mollis nisl morbi tellus at. Ut phasellus at convallis eu massa dui ut elementum pretium.",
+    "tipo": "Residencial",
+    "title": "S. R. Village",
+    "year": "2019",
+    "id": "sr-village"
+  },
+  {
+    "client": "Costa & Carreira",
+    "colaboracao": "Paralaxe",
+    "cover": "images/arquiponto_qta-da-guia_01-capa.jpg",
+    "estado": "Obra",
+    "featured": true,
+    "localizacao": "Vila Real, PT",
+    "order": 1,
+    "photos": [
+      "images/arquiponto_qta-da-guia_02.jpg",
+      "images/arquiponto_qta-da-guia_03.jpg",
+      "images/arquiponto_qta-da-guia_04.jpg",
+      "images/arquiponto_qta-da-guia_05.jpg",
+      "images/arquiponto_qta-da-guia_06.jpg",
+      "images/arquiponto_qta-da-guia_07.jpg"
+    ],
+    "text": "Lorem ipsum dolor sit amet consectetur. Amet sit suscipit lacus mauris. Sit gravida id cursus eu etiam sit ut in suspendisse.",
+    "tipo": "Residencial",
+    "title": "Qta. da Guia",
+    "year": "2020",
+    "id": "qta-da-guia"
+  },
+  {
+    "client": "Herdade da Rocha",
+    "colaboracao": "Paralaxe",
+    "cover": "images/arquiponto_hr-eco-hotel_01-capa.jpg",
+    "estado": "Estudo prévio",
+    "featured": true,
+    "localizacao": "Crato, PT",
+    "order": 2,
+    "photos": [
+      "images/arquiponto_hr-eco-hotel_02.jpg",
+      "images/arquiponto_hr-eco-hotel_03.jpg",
+      "images/arquiponto_hr-eco-hotel_04.jpg",
+      "images/arquiponto_hr-eco-hotel_05.jpg",
+      "images/arquiponto_hr-eco-hotel_06.jpg",
+      "images/arquiponto_hr-eco-hotel_07.jpg"
+    ],
+    "text": "Lorem ipsum dolor sit amet consectetur. Amet sit suscipit lacus mauris. Sit gravida id cursus eu etiam sit ut in suspendisse.",
+    "tipo": "Hotel",
+    "title": "H. R. Eco Hotel",
+    "year": "2020",
+    "id": "hr-eco-hotel"
+  },
+  {
+    "client": "Costa & Carreira",
+    "colaboracao": "",
+    "cover": "images/rp_flaviarte_editada.jpg",
+    "estado": "",
+    "featured": true,
+    "localizacao": "Chaves, PT",
+    "order": 3,
+    "photos": [
+      "images/rp_grid_1.jpg",
+      "images/rp_grid_7.jpg",
+      "images/rp_grid_8.jpg"
+    ],
+    "text": "Lorem ipsum dolor sit amet consectetur. Amet sit suscipit lacus mauris. Sit gravida id cursus eu etiam sit ut in suspendisse.",
+    "tipo": "Comércio",
+    "title": "Retail Park Chaves",
+    "year": "2019",
+    "id": "retail-park-chaves"
+  }
+]
