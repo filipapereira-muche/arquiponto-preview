@@ -1,0 +1,57 @@
+{
+  "about": "Lorem ipsum dolor sit amet consectetur. Amet sit suscipit lacus mauris. Sit gravida id cursus eu etiam sit ut in suspendisse. Gravida fermentum arcu mollis nisl morbi tellus at.",
+  "aboutHero": "images/isaac.jpg",
+  "clients": [],
+  "intro": "Atelier de arquitetura em <b>Chaves</b>. Trabalhamos o conjunto de <b>dimensões</b> que formam o <b>espaço</b>, do primeiro <b>esboço</b> à <b>obra</b>.",
+  "jobs": [
+    {
+      "details": "",
+      "exp": "",
+      "mode": "Presencial",
+      "place": "Chaves, PT",
+      "title": "Arquiteto",
+      "type": "Tempo inteiro"
+    },
+    {
+      "details": "",
+      "exp": "",
+      "mode": "Presencial",
+      "place": "Chaves, PT",
+      "title": "Designer de Interiores",
+      "type": "Tempo inteiro"
+    },
+    {
+      "details": "",
+      "exp": "",
+      "mode": "Presencial",
+      "place": "Chaves, PT",
+      "title": "Artista 3D",
+      "type": "Tempo inteiro"
+    }
+  ],
+  "logo": "images/logo_trim.png",
+  "logoLight": "images/logo_white.png",
+  "logoMono": "images/logo_mono.png",
+  "offices": [
+    {
+      "label": "Sede",
+      "name": "Chaves",
+      "address": "Avenida Irmãos Rui e Garcia Lopes, Lote 4 R/C 5400-310 Chaves",
+      "phone": "+351 276 332 603"
+    },
+    {
+      "label": "Escritório",
+      "name": "Porto",
+      "address": "Rua Júlio Dinis, Edifício Roma 728, 2º andar, Sala 215 4050-012 Porto",
+      "phone": ""
+    }
+  ],
+  "social": {
+    "facebook": "https://www.facebook.com/Arquiponto?locale=pt_PT",
+    "instagram": "https://www.instagram.com/arquiponto_/",
+    "linkedin": "https://www.linkedin.com/company/arquiponto-lda/home/"
+  },
+  "team": [],
+  "contactProject": "Tem um projeto em mente? Conte-nos a sua ideia, seja uma casa, um espaço comercial ou um projeto de turismo. Acompanhamos cada projeto do primeiro esboço à obra, e a primeira conversa pode ser no atelier em Chaves ou online.<br><br><b>Reuniões apenas por marcação.</b>",
+  "contactCareers": "Procuramos pessoas curiosas e rigorosas, com vontade de pensar o espaço em todas as dimensões. Se quer fazer parte da equipa Arquiponto, envie-nos a sua candidatura, mesmo que não exista uma vaga aberta para o seu perfil.<br><br><b>Entrevistas apenas por marcação.</b>"
+}
